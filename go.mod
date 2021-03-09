@@ -1,5 +1,7 @@
 module github.com/egorgripasov/chainbridge-utils
 
+replace github.com/ChainSafe/chainbridge-utils v1.0.6 => github.com/egorgripasov/chainbridge-utils v1.0.6
+
 go 1.13
 
 require (
