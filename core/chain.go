@@ -4,8 +4,8 @@
 package core
 
 import (
-	metrics "github.com/ChainSafe/chainbridge-utils/metrics/types"
-	"github.com/ChainSafe/chainbridge-utils/msg"
+	metrics "github.com/egorgripasov/chainbridge-utils/metrics/types"
+	"github.com/egorgripasov/chainbridge-utils/msg"
 )
 
 type Chain interface {
